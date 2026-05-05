@@ -19,4 +19,4 @@ Instead of creating redundant, single-use queries, I engineered a highly optimiz
 * **Data Visualization:** Tableau Desktop (Cross-database filters, UI/UX optimization, Parameter logic).
 
 ## 📸 Dashboard Preview
-![Dashboard_Preview]
+Dashboard_Preview.png
