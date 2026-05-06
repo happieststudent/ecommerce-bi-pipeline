@@ -1,22 +1,29 @@
-# 📊 End-to-End BI Pipeline: RFM Segmentation & Supply Chain Analytics
+# E-Commerce Performance dashboard: Revenue, Customer &  Operations
 
-**Live Dashboard:** [Link to your Tableau Public Dashboard here]
+**Live Dashboard:** (https://public.tableau.com/views/ExecutiveE-CommerceCommandCenterProfitabilityOperations/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-## The Objective
-To architect a unified Business Intelligence ecosystem by extracting, transforming, and analyzing raw, fragmented global e-commerce data to expose hidden logistical bottlenecks and true product profitability.
+# Overview:
+Built an end-to-end Business Intelligence dashboard to uncover revenue leakage, optimize product strategy, and expose operational inefficiencies across a global e-commerce dataset.
 
-## The Architecture
-Instead of creating redundant, single-use queries, I engineered a highly optimized **4-Pillar BI Architecture**. By utilizing CTEs to consolidate metrics into centralized "Wide Tables", I reduced database query load and created a scalable backend designed specifically for seamless Tableau integration.
+# Data Engineering:
+Designed and implemented a scalable SQL Server data model using CTEs, window functions, and deterministic transformations to convert raw transactional data into high-performance analytical views for Tableau.
 
-1. **`vw_customer_360`**: Automated RFM (Recency, Frequency, Monetary) modeling using SQL Window Functions to dynamically categorize users into actionable marketing personas.
-2. **`vw_product_360`**: Modeled true Product ROI versus Profit Margin to expose high-volume "loss leaders" versus high-efficiency inventory.
-3. **`vw_time_machine_trends`**: MoM and YoY growth tracking using `LAG()` window functions.
-4. **`vw_logistics_bottleneck`**: Identified and isolated $3.2M in "Revenue at Risk" by cross-referencing logistical shipping delays with high-value customer segments.
+# Core Analyses & Impact:
 
-## Technical Stack
-* **Database:** SQL Server (SSMS)
-* **SQL Skills:** Common Table Expressions (CTEs), Window Functions, Aggregations, Advanced JOINs, Data Type Casting.
-* **Data Visualization:** Tableau Desktop (Cross-database filters, UI/UX optimization, Parameter logic).
+1. Customer Segmentation (RFM):
+Automated customer classification into actionable segments (e.g., Champions, At Risk) to support targeted marketing and retention strategies.
+
+2. Product Performance & Pareto Analysis:
+Developed a dynamic 80/20 profit model to identify top revenue drivers and isolate underperforming “loss leader” products impacting margins.
+
+3. Profitability & Efficiency Modeling:
+Evaluated product-level ROI and margin performance to distinguish high-efficiency products from low-return inventory.
+
+4. Logistics & Operations Insight:
+Engineered order-level shipping metrics to accurately measure late shipment rates and identify regions contributing to revenue risk.
+
+# Tools & Technologies:
+SQL Server (SSMS), Tableau, Advanced SQL (CTEs, Window Functions, Aggregations), Data Modeling
 
 ## 📸 Dashboard Preview
 Dashboard_Preview.png
