@@ -62,3 +62,17 @@ Because 80% of net company wealth relies heavily on a narrow group of "Top Tier"
 ### 3. Deceptive Sales Volume Re-Alignment
 The Accessories segment moves high unit volumes, creating an "illusion of performance." However, the data reveals that the organization is exerting high operational effort for low relative margin returns.
 * **Verdict:** Shift a portion of acquisition marketing capital away from cheap accessories and reallocate it toward high-efficiency "Rising Stars" identified in the **Mid Tier** product matrix to scale net cash returns.
+
+---
+
+## Live Interactive Dashboards
+
+Click on either dashboard image below to open the live, fully interactive version on Tableau Public.
+
+### 1. Product Intelligence & ROI Optimization Hub
+[![Product Optimization Dashboard](./images/product_optimization.png)](https://public.tableau.com/views/E-CommerceCommercialIntelligenceHub/ProductOptimization?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+### 2. Operations & Customer Hub
+[![Operations and Customer Hub Dashboard](./images/operations_customer_hub.png)](https://public.tableau.com/views/E-CommerceCommercialIntelligenceHub/ProductOptimization?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
