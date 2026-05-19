@@ -70,9 +70,9 @@ The Accessories segment moves high unit volumes, creating an "illusion of perfor
 Click on either dashboard image below to open the live, fully interactive version on Tableau Public.
 
 ### 1. Product Intelligence & ROI Optimization Hub
-[![Product Optimization Dashboard](./images/product_optimization.png)](https://public.tableau.com/views/E-CommerceCommercialIntelligenceHub/ProductOptimization?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Product Optimization Dashboard](./images/product_optimization.png)](https://public.tableau.com/views/E-CommerceCommercialIntelligenceHub/ProductOptimization?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ---
 
 ### 2. Operations & Customer Hub
-[![Operations and Customer Hub Dashboard](./images/operations_customer_hub.png)](https://public.tableau.com/views/E-CommerceCommercialIntelligenceHub/ProductOptimization?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Operations and Customer Hub Dashboard](./images/operations_customer_hub.png)](https://public.tableau.com/views/E-CommerceCommercialIntelligenceHub/OperationCustomerHub?:language=en-US&:display_count=n&:origin=viz_share_link)
