@@ -7,6 +7,8 @@ The system is split into two specialized strategic hubs:
 1. **The Product Intelligence Hub:** Focused on product performance, unit economics, ROI, and Pareto margin optimization.
 2. **The Operations & Logistics Hub:** Focused on customer value tracking (RFM), global distribution, and supply chain supply bottlenecks.
 
+[View the Optimized SQL Architecture Script Here](./script/)
+
 ---
 
 ## Tech Stack & Architecture
