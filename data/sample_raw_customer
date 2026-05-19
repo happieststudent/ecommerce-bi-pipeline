@@ -1,0 +1,10 @@
+customer_key,customer_id,customer_number,first_name,last_name,country,marital_status,gender,birthdate,create_date
+1,11000,AW00011000,Jon,Yang,Australia,Married,Male,1971-10-06,2025-10-06
+2,11001,AW00011001,Eugene,Huang,Australia,Single,Male,1976-05-10,2025-10-06
+3,11002,AW00011002,Ruben,Torres,Australia,Married,Male,1971-02-09,2025-10-06
+4,11003,AW00011003,Christy,Zhu,Australia,Single,Female,1973-08-14,2025-10-06
+5,11004,AW00011004,Elizabeth,Johnson,Australia,Single,Female,1979-08-05,2025-10-06
+6,11005,AW00011005,Julio,Ruiz,Australia,Single,Male,1976-08-01,2025-10-06
+7,11006,AW00011006,Janet,Alvarez,Australia,Single,Female,1976-12-02,2025-10-06
+8,11007,AW00011007,Marco,Mehta,Australia,Married,Male,1969-11-06,2025-10-06
+9,11008,AW00011008,Rob,Verhoff,Australia,Single,Female,1975-07-04,2025-10-06
