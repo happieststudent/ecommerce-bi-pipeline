@@ -1,0 +1,10 @@
+product_key	product_id	product_number	product_name	category_id	category	subcategory	maintenance	cost	product_line	start_date
+1	210	FR-R92B-58	HL Road Frame - Black- 58	CO_RF	Components	Road Frames	Yes	0	Road	2003-07-01
+2	211	FR-R92R-58	HL Road Frame - Red- 58	CO_RF	Components	Road Frames	Yes	0	Road	2003-07-01
+3	348	BK-M82B-38	Mountain-100 Black- 38	BI_MB	Bikes	Mountain Bikes	Yes	1898	Mountain	2011-07-01
+4	349	BK-M82B-42	Mountain-100 Black- 42	BI_MB	Bikes	Mountain Bikes	Yes	1898	Mountain	2011-07-01
+5	350	BK-M82B-44	Mountain-100 Black- 44	BI_MB	Bikes	Mountain Bikes	Yes	1898	Mountain	2011-07-01
+6	351	BK-M82B-48	Mountain-100 Black- 48	BI_MB	Bikes	Mountain Bikes	Yes	1898	Mountain	2011-07-01
+7	344	BK-M82S-38	Mountain-100 Silver- 38	BI_MB	Bikes	Mountain Bikes	Yes	1912	Mountain	2011-07-01
+8	345	BK-M82S-42	Mountain-100 Silver- 42	BI_MB	Bikes	Mountain Bikes	Yes	1912	Mountain	2011-07-01
+9	346	BK-M82S-44	Mountain-100 Silver- 44	BI_MB	Bikes	Mountain Bikes	Yes	1912	Mountain	2011-07-01
