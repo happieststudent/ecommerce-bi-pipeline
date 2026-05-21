@@ -13,7 +13,7 @@ The system is split into two specialized strategic hubs:
 
 ## Tech Stack & Architecture
 * **Database Engine:** T-SQL / Microsoft SQL Server
-* **Business Intelligence:** Tableau Desktop
+* **Business Intelligence:** Tableau Public
 * **Design Pattern:** Computed-View Layer Strategy using Star Schema dimensions
 
 ---
